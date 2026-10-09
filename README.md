@@ -14,7 +14,7 @@
 透過 GitHub Actions 自動部署到 **GitHub Pages**：
 `.github/workflows/deploy-pages.yml`
 
-公開網址：`https://klchan-learning.github.io/klchan-learning/`
+公開網址：`https://klchan-learning.github.io/Hermes-Agent-0918/`
 
 ## 檔案
 | 檔案 | 用途 |
