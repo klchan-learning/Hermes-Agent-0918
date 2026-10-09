@@ -1,0 +1,22 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Local env / secrets — never commit
+.env
+.env.*
+*.secret
+*.pat
+
+# Temp / build artifacts
+node_modules/
+dist/
+build/
+.cache/
